@@ -49,6 +49,7 @@ The Blood Bank is a full-stack web application designed to streamline the proces
   * Create a .env file in the backend folder:
     ```bash
     PORT=PORT = 8080
+    DEV_MODE = development
     MONGODB_URI = mongodb://localhost:27017/blood-bank
     JWT_SECRET = your_jwt_secret_key
     ```
