@@ -1,5 +1,6 @@
 # Blood-Bank
 
+
 **Project Description**
 
 The Blood Bank is a full-stack web application designed to streamline the process of managing blood donations and requests. It allows users to register as donors or recipients, manage donation records, and search for available blood types. The application provides complete CRUD (Create, Read, Update, Delete) functionality. Built using the MERN stack, the system ensures real-time updates, responsive design, and secure data handling.
